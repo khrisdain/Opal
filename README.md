@@ -1,2 +1,0 @@
-# Opal
-Loom Clone
